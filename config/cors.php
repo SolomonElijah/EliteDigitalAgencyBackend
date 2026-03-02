@@ -10,6 +10,7 @@ return [
         'https://elitedigitalagency.net',
         'https://www.elitedigitalagency.net',
         'https://portal.elitedigitalagency.net',
+        'http://localhost:3000', // For local development
         // Add any other frontend domains here
     ],
 
